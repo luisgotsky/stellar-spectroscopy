@@ -1,0 +1,11 @@
+\babel@toc {english}{}\relax 
+\contentsline {section}{\numberline {1}Introducción}{1}{section.1}%
+\contentsline {subsection}{\numberline {1.1}Motivación y objetivos}{1}{subsection.1.1}%
+\contentsline {subsection}{\numberline {1.2}Fundamento teórico}{1}{subsection.1.2}%
+\contentsline {section}{\numberline {2}Desarrollo experimental}{2}{section.2}%
+\contentsline {section}{\numberline {3}Análisis de resultados}{3}{section.3}%
+\contentsline {section}{\numberline {4}Comparación de resultados}{3}{section.4}%
+\contentsline {section}{\numberline {5}Conclusiones}{5}{section.5}%
+\contentsline {section}{\numberline {6}Anexo 1: fórmulas de errores}{6}{section.6}%
+\contentsline {section}{\numberline {7}Anexo 2: el código}{6}{section.7}%
+\contentsline {section}{\numberline {8}Anexo 3: tablas}{6}{section.8}%
